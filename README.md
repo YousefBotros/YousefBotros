@@ -6,7 +6,7 @@
 <h1 align="center">Yousef Botros</h1>
 
 <p align="center">
-  AI Engineer • Machine Learning / Deep Learning • LLMs (RAG) • Flutter
+  AI Engineer • Machine Learning / Deep Learning • LLMs (RAG)  • Flutter
 </p>
 
 <p align="center">
@@ -76,27 +76,42 @@ My work spans end-to-end ML pipelines (training → evaluation → deployment), 
 | **NTI — RAG System** | Embeddings + FAISS retrieval, improved answer quality | Accuracy **55% → 75%** |
 | **Flutter Mobile Applications** | REST integration, auth, modular UI, performance tuning | **99.2%** crash-free sessions |
 | **ML Workflow Demo** | End-to-end ML workflow with Streamlit inference | F1 **0.78 → 0.87** |
+
+**Links (update):**
+- HYDROTRON ROV: https://github.com/yousefbotros/REPO_NAME_HERE
+- NTI RAG: https://github.com/yousefbotros/REPO_NAME_HERE
+- Flutter Apps: https://github.com/yousefbotros/REPO_NAME_HERE
+- ML Demo: https://github.com/yousefbotros/REPO_NAME_HERE
+
+---
+
+## Certifications
+- Intro to Deep Learning
+- Building LLM Applications With Prompt Engineering
+- McKinsey.org Forward Program
+
 ---
 
 ## GitHub Metrics
-
+<!-- Using an alternative host for readme-stats to reduce broken images -->
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=yousefbotros&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=7200" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousefbotros&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=7200" />
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yousefbotros&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yousefbotros&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img height="160" src="https://streak-stats.demolab.com?user=yousefbotros&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://streak-stats.demolab.com?user=yousefbotros&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## Contact
-<p>
+<!-- Button-style badges (single segment) -->
+<p align="center">
   <a href="mailto:yousefbotros212@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-0B0F1A?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Email-0B0F1A?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/yousef-botros">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0B0F1A?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0B0F1A?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
