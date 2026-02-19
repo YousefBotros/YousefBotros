@@ -1,12 +1,12 @@
 <!-- =========================
    Formal GitHub Profile README
-   User: YousefBotros
+   User: yousefbotros
 ========================= -->
 
 <h1 align="center">Yousef Botros</h1>
 
 <p align="center">
-  AI Engineer • Machine Learning / Deep Learning • LLMs (RAG) • Computer Vision • Flutter
+  AI Engineer • Machine Learning / Deep Learning • LLMs (RAG) • Flutter
 </p>
 
 <p align="center">
@@ -15,8 +15,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YousefBotros&label=Profile%20views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/YousefBotros?label=Followers&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=yousefbotros&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/yousefbotros?label=Followers&style=flat" />
 </p>
 
 ---
@@ -76,36 +76,27 @@ My work spans end-to-end ML pipelines (training → evaluation → deployment), 
 | **NTI — RAG System** | Embeddings + FAISS retrieval, improved answer quality | Accuracy **55% → 75%** |
 | **Flutter Mobile Applications** | REST integration, auth, modular UI, performance tuning | **99.2%** crash-free sessions |
 | **ML Workflow Demo** | End-to-end ML workflow with Streamlit inference | F1 **0.78 → 0.87** |
-
-**Links (update):**
-- HYDROTRON ROV: https://github.com/YousefBotros/REPO_NAME_HERE
-- NTI RAG: https://github.com/YousefBotros/REPO_NAME_HERE
-- Flutter Apps: https://github.com/YousefBotros/REPO_NAME_HERE
-- ML Demo: https://github.com/YousefBotros/REPO_NAME_HERE
-
----
-
-## Certifications
-- Intro to Deep Learning
-- Building LLM Applications With Prompt Engineering
-- McKinsey.org Forward Program
-
 ---
 
 ## GitHub Metrics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YousefBotros&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YousefBotros&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=yousefbotros&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=7200" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousefbotros&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=7200" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YousefBotros&theme=tokyonight&hide_border=true" height="160" />
+  <img height="160" src="https://streak-stats.demolab.com?user=yousefbotros&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## Contact
 <p>
-  <a href="mailto:yousefbotros212@gmail.com"><img src="https://img.shields.io/badge/Email-0B0F1A?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/yousef-botros"><img src="https://img.shields.io/badge/LinkedIn-0B0F1A?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:yousefbotros212@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-0B0F1A?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/yousef-botros">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0B0F1A?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
