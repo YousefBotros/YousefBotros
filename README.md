@@ -94,10 +94,10 @@ My work spans end-to-end ML pipelines (training → evaluation → deployment), 
 
 ## GitHub Metrics
 <!-- Using an alternative host for readme-stats to reduce broken images -->
-<p align="center">
+<!-- <p align="center">
   <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yousefbotros&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
   <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yousefbotros&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</p>
+</p> -->
 
 <p align="center">
   <img height="165" src="https://streak-stats.demolab.com?user=yousefbotros&theme=tokyonight&hide_border=true" />
