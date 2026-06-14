@@ -1,117 +1,132 @@
 <!-- =========================
-   Formal GitHub Profile README
-   User: yousefbotros
+   GitHub Profile README
+   User: YousefBotros
 ========================= -->
 
-<h1 align="center">Yousef Botros</h1>
+<h1 align="center">👋 Yousef Botros</h1>
 
 <p align="center">
-  AI Engineer • Machine Learning / Deep Learning • LLMs (RAG)  • Flutter
+  <b>AI Engineer • ML/DL • LLMs (RAG) • Multi-modal AI • AI Agents</b>
 </p>
 
 <p align="center">
-  Cairo, Egypt • <a href="mailto:yousefbotros212@gmail.com">yousefbotros212@gmail.com</a> •
-  <a href="https://www.linkedin.com/in/yousef-botros">LinkedIn</a>
+  📍 Cairo, Egypt •
+  📧 <a href="mailto:yousefbotros212@gmail.com">yousefbotros212@gmail.com</a> •
+  🔗 <a href="https://www.linkedin.com/in/yousef-botros">LinkedIn</a> •
+  🐙 <a href="https://github.com/YousefBotros">GitHub</a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yousefbotros&label=Profile%20views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/yousefbotros?label=Followers&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=yousefbotros&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/yousefbotros?label=Followers&style=flat&color=0e75b6" />
+  <img src="https://img.shields.io/github/stars/yousefbotros?label=Stars&style=flat&color=0e75b6" />
 </p>
 
 ---
 
-## Profile
-I build production-ready AI systems that translate research into reliable, low-latency applications.  
-My work spans end-to-end ML pipelines (training → evaluation → deployment), RAG systems for LLM applications, and computer vision solutions optimized for inference (ONNX export, quantization, batching). I also develop mobile applications using Flutter.
+## 👨‍💻 Professional Summary
+
+AI Engineer specializing in **production-grade AI systems**, **multi-modal models**, and **agentic workflows**. Expertise spans end-to-end ML pipelines, RAG architectures for LLMs, and computer vision solutions optimized for inference (ONNX export, quantization).
 
 ---
 
-## Core Competencies
-- **LLMs / GenAI:** RAG pipelines, embeddings, fine-tuning, prompt engineering
-- **Computer Vision:** detection pipelines, model evaluation, deployment optimization
-- **MLOps & Delivery:** FastAPI services, Docker, experiment tracking, CI/CD basics
-- **Mobile Development:** Flutter apps with REST APIs and Firebase
+## 🎯 Core Competencies
+
+| Category | Skills |
+|----------|--------|
+| **LLMs & GenAI** | RAG pipelines, LangChain, embeddings, fine-tuning, prompt engineering, Ollama, CrewAI |
+| **Multi-modal AI** | CLIP, Vision Transformers, text-to-image/video retrieval |
+| **Computer Vision** | Detection pipelines, model evaluation, ONNX optimization, quantization |
+| **MLOps & Deployment** | FastAPI, Docker, Gradio, Streamlit, CI/CD, Ngrok |
+| **Mobile Development** | Flutter, Dart, REST APIs, Firebase |
 
 ---
 
-## Tools & Technologies
-<p align="left">
-  <!-- Core -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="36"/>
-  <br/>
-  <!-- Data -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="36"/>
-  <br/>
-  <!-- App -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="36"/>
+## 🛠️ Tools & Technologies
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" title="PyTorch"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" title="TensorFlow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" title="OpenCV"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" title="FastAPI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" title="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" title="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" title="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" title="Flutter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" title="Dart"/>
 </p>
 
-<p>
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-111827?style=flat&logo=chainlink&logoColor=white" />
   <img src="https://img.shields.io/badge/FAISS-111827?style=flat&logo=meta&logoColor=white" />
   <img src="https://img.shields.io/badge/ONNX-111827?style=flat&logo=onnx&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLflow-111827?style=flat&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-111827?style=flat&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/CrewAI-111827?style=flat&logo=crewai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gradio-111827?style=flat&logo=gradio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-111827?style=flat&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-111827?style=flat&logo=chromadb&logoColor=white" />
 </p>
 
 ---
 
-## Selected Projects
-> Replace the repo names with your real repositories.
+## 📁 Featured Projects
 
-| Project | Summary | Impact |
-|---|---|---|
-| **HYDROTRON ROV — Computer Vision Pipeline** | YOLO-style detection pipeline, ONNX export, quantization, batching | mAP **0.79**, Recall **+22%** |
-| **NTI — RAG System** | Embeddings + FAISS retrieval, improved answer quality | Accuracy **55% → 75%** |
-| **Flutter Mobile Applications** | REST integration, auth, modular UI, performance tuning | **99.2%** crash-free sessions |
-| **ML Workflow Demo** | End-to-end ML workflow with Streamlit inference | F1 **0.78 → 0.87** |
+### Healthcare AI & Knowledge Systems
 
-**Links (update):**
-- HYDROTRON ROV: https://github.com/yousefbotros/REPO_NAME_HERE
-- NTI RAG: https://github.com/yousefbotros/REPO_NAME_HERE
-- Flutter Apps: https://github.com/yousefbotros/REPO_NAME_HERE
-- ML Demo: https://github.com/yousefbotros/REPO_NAME_HERE
+| Project | Description | Technologies | Repository |
+|---------|-------------|--------------|------------|
+| **MedCare AI** | Production healthcare assistant with RAG pipeline, PDF/image attachments, voice transcription, and bilingual (Arabic/English) chat. Deployed via Streamlit with local Ollama inference. | LangChain, Ollama, FAISS, Streamlit, Whisper | <a href="https://github.com/YousefBotros/medcare_AI">🔗 GitHub</a> |
+| **MedCare App** | Flutter-based healthcare mobile application with REST API integration, authentication, and modular UI architecture. | Flutter, Dart, Firebase, REST APIs | <a href="https://github.com/YousefBotros/medcare_app">🔗 GitHub</a> |
+| **AI Knowledge Assistant** | FastAPI-based knowledge processing system with document ingestion (PDF, images), web scraping, and RAG-style QA. Exposed via secure ngrok tunneling. | FastAPI, Ollama, LangChain, Ngrok | <a href="https://github.com/YousefBotros/AI_Knowledge_Assistant">🔗 GitHub</a> |
 
----
+### Multi-modal AI & Agentic Systems
 
-## Certifications
-- Intro to Deep Learning
-- Building LLM Applications With Prompt Engineering
-- McKinsey.org Forward Program
+| Project | Description | Technologies | Repository |
+|---------|-------------|--------------|------------|
+| **CLIP Video Retrieval** | Multi-modal search system that retrieves video frames using natural language queries. Implements CLIP embeddings with FAISS indexing. | PyTorch, CLIP, FAISS, Gradio | <a href="https://github.com/YousefBotros/clip-video-retrieval">🔗 GitHub</a> |
+| **Telegram RAG Bot** | Production-grade Telegram bot featuring RAG pipeline with ChromaDB vector store, conversation memory, and document ingestion. | LangChain, Ollama, ChromaDB, python-telegram-bot | <a href="https://github.com/YousefBotros/telegram-rag-bot">🔗 GitHub</a> |
 
----
+### Natural Language Processing
 
-## GitHub Metrics
-<!-- Using an alternative host for readme-stats to reduce broken images -->
-<!-- <p align="center">
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yousefbotros&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yousefbotros&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</p> -->
-
-<p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=yousefbotros&theme=tokyonight&hide_border=true" />
-</p>
+| Project | Description | Technologies | Repository |
+|---------|-------------|--------------|------------|
+| **Egyptian Arabic Translator** | Transformer-based NMT system fine-tuned for low-resource Egyptian Arabic → English translation. | Hugging Face Transformers, PyTorch, Gradio | <a href="https://github.com/YousefBotros/egyptian-arabic-translator">🔗 GitHub</a> |
+| **Arabic Sentiment Analysis** | Hybrid embedding system combining Word2Vec and TF-IDF with neural network classifier. Handles Arabic script & Franco-Arabic dialect. | TensorFlow, Gensim, NLTK, Gradio | <a href="https://github.com/YousefBotros/arabic-sentiment-analysis">🔗 GitHub</a> |
+| **BERT Sentiment Analysis** | Comparative implementation of three classification approaches using frozen BERT embeddings. | Transformers, scikit-learn, PyTorch | <a href="https://github.com/YousefBotros/bert-sentiment-analysis">🔗 GitHub</a> |
+| **PDF Information Retrieval** | Document search engine using TF-IDF vectorization and cosine similarity with Gradio interface. | scikit-learn, Gradio, NLTK | <a href="https://github.com/YousefBotros/pdf-info-retrieval">🔗 GitHub</a> |
 
 ---
 
-## Contact
-<!-- Button-style badges (single segment) -->
+## 🏆 Certifications
+
+| Certification | Issuer |
+|---------------|--------|
+| **Generative AI Professional Certificate** | IBM |
+| **Agentic AI & RAG Professional Certificate** | IBM |
+| **Machine Learning Associate** | AWS Certified |
+| **Certified Generative AI Professional** | Oracle |
+
+---
+
+## 📫 Connect
+
 <p align="center">
   <a href="mailto:yousefbotros212@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-0B0F1A?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/yousef-botros">
-    <img src="https://img.shields.io/badge/-LinkedIn-0B0F1A?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://github.com/YousefBotros">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building intelligent systems that solve real-world problems.</i>
 </p>
